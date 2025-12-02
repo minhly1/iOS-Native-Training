@@ -58,6 +58,11 @@
 			path = "iOS-Native-TrainingUITests";
 			sourceTree = "<group>";
 		};
+		368C5BAF2EDD76C300C3D38C /* TrainingPlaygrounds */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TrainingPlaygrounds;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		368C5B722EDD76A500C3D38C = {
 			isa = PBXGroup;
 			children = (
+				368C5BAF2EDD76C300C3D38C /* TrainingPlaygrounds */,
 				368C5B7D2EDD76A500C3D38C /* iOS-Native-Training */,
 				368C5B942EDD76A800C3D38C /* iOS-Native-TrainingTests */,
 				368C5B9E2EDD76A800C3D38C /* iOS-Native-TrainingUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				368C5B7D2EDD76A500C3D38C /* iOS-Native-Training */,
+				368C5BAF2EDD76C300C3D38C /* TrainingPlaygrounds */,
 			);
 			name = "iOS-Native-Training";
 			packageProductDependencies = (
