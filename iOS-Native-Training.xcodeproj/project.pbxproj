@@ -26,6 +26,7 @@
 		36936AF92EE836A00049B7FF /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36936AF82EE836A00049B7FF /* ErrorMessage.swift */; };
 		36936AFC2EE83BDA0049B7FF /* FollowerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36936AFB2EE83BDA0049B7FF /* FollowerCell.swift */; };
 		36936AFE2EE83C810049B7FF /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36936AFD2EE83C810049B7FF /* GFAvatarImageView.swift */; };
+		36F599332EE92E0000102697 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36F599322EE92E0000102697 /* UIHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		36936AF82EE836A00049B7FF /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 		36936AFB2EE83BDA0049B7FF /* FollowerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCell.swift; sourceTree = "<group>"; };
 		36936AFD2EE83C810049B7FF /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
+		36F599322EE92E0000102697 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -225,6 +227,7 @@
 			isa = PBXGroup;
 			children = (
 				36936AF82EE836A00049B7FF /* ErrorMessage.swift */,
+				36F599322EE92E0000102697 /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -389,6 +392,7 @@
 				36936A772EE7D1670049B7FF /* FavoritesListVC.swift in Sources */,
 				36936A8F2EE80E0F0049B7FF /* UIViewController+Ext.swift in Sources */,
 				36936A792EE7D1670049B7FF /* GFButton.swift in Sources */,
+				36F599332EE92E0000102697 /* UIHelper.swift in Sources */,
 				36936AFE2EE83C810049B7FF /* GFAvatarImageView.swift in Sources */,
 				36936A7A2EE7D1670049B7FF /* SceneDelegate.swift in Sources */,
 				36936A8D2EE804210049B7FF /* GFAlertVC.swift in Sources */,
