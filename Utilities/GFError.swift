@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  iOS-Native-Training
 //
-//  Created by MIN on 9/12/25.
+//  Created by MIN on 11/12/25.
 //
 
 import Foundation
